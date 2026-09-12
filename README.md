@@ -6,7 +6,6 @@ The app integrates with the public DummyJSON Products API and covers listing, fi
 
 ## Table of Contents
 
-- [Live Demo](#-live-demo)
 - [Repository](#-repository)
 - [Features](#-features)
 - [Tech Stack](#️-tech-stack)
@@ -25,17 +24,10 @@ The app integrates with the public DummyJSON Products API and covers listing, fi
 - [Screenshots](#️-screenshots)
 - [Assessment Requirements](#-assessment-requirements)
 
-## 🔗 Live Demo
-
-[Live Demo](YOUR_DEMO_URL)
-
-> Replace `YOUR_DEMO_URL` after deploying the app.
 
 ## 📦 Repository
 
-[GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
-
-> Replace `YOUR_GITHUB_REPOSITORY_URL` with the public repository URL.
+[GitHub Repository](https://github.com/ayush-1601/Shophub-frontend)
 
 ## ✨ Features
 
@@ -251,7 +243,7 @@ Listing or detail → Add to Cart → badge updates → open sidebar → change 
 ### Installation
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ayush-1601/Shophub-frontend
 cd ecommerce-app
 npm install
 ```
