@@ -6,6 +6,7 @@ The app integrates with the public DummyJSON Products API and covers listing, fi
 
 ## Table of Contents
 
+- [Live Demo](#-live-demo)
 - [Repository](#-repository)
 - [Features](#-features)
 - [Tech Stack](#️-tech-stack)
@@ -24,6 +25,9 @@ The app integrates with the public DummyJSON Products API and covers listing, fi
 - [Screenshots](#️-screenshots)
 - [Assessment Requirements](#-assessment-requirements)
 
+## 🔗 Live Demo
+
+[Live Demo](https://shophub-assignment.netlify.app/)
 
 ## 📦 Repository
 
